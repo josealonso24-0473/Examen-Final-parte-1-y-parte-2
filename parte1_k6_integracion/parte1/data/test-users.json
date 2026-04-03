@@ -1,0 +1,7 @@
+[
+  { "email": "usuario1@qa.com", "password": "Pass@1234", "address": "Av. Principal 101, Santo Domingo" },
+  { "email": "usuario2@qa.com", "password": "Pass@1234", "address": "Calle Duarte 55, Santiago" },
+  { "email": "usuario3@qa.com", "password": "Pass@1234", "address": "Res. Las Palmas 12, La Romana" },
+  { "email": "usuario4@qa.com", "password": "Pass@1234", "address": "Av. Independencia 300, SD" },
+  { "email": "usuario5@qa.com", "password": "Pass@1234", "address": "Urb. Vista Bella, Higüey" }
+]
