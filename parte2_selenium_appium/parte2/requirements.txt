@@ -1,0 +1,14 @@
+# Dependencias Parte 2 — Selenium & Appium
+# Instalar con: pip install -r requirements.txt
+
+# ── Selenium (web) ────────────────────────────────────────────────────────────
+selenium==4.18.1
+webdriver-manager==4.0.1          # Gestión automática de chromedriver/geckodriver
+
+# ── Appium (móvil) ────────────────────────────────────────────────────────────
+Appium-Python-Client==3.1.0
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest==8.1.1
+pytest-html==4.1.1                 # Reporte HTML de resultados
+pytest-xdist==3.5.0                # Ejecución paralela de tests
